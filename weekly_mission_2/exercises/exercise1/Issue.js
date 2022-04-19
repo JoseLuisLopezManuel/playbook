@@ -10,7 +10,7 @@ const Issue = {
     getTitleAndAuthor: function(){
         return this.title, this.author
     },
-    getGeneralInfo(){
+    getGeneralInfo: function(){
         return `El repositoro ${this.repositoryNameAssociated} status: ${this.status}, fue creado: ${this.dateCreated} y guardado ${this.lastUpdate}`
     }
 }
