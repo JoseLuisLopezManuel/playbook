@@ -6,6 +6,7 @@ Proyectos desarrollados en la semana 3:
 | ------------- |:-------------:| -----:|
 |`fizzbuzz`|1|[Link al repo](https://github.com/JoseLuisLopezManuel/Fizzbuzz.git)|
 |`PR`|2|[Link al repo](https://github.com/JoseLuisLopezManuel/Fizzbuzz.git)|
-|`Code Challenge`|3, 4, 5|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
+|`Code Challenge`|3, 4|[Link al repo](https://github.com/JoseLuisLopezManuel/fizzbuzz-1.git)|
+|`Code Challenge`|5|[Link al repo](https://github.com/JoseLuisLopezManuel/fizzbuzz-1.git)|
 |`Trello`|6|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
 |`Trello JS Fork`|7|[Link al repo](https://github.com/LaunchX-InnovaccionVirtual/MissionNodeJS)|
